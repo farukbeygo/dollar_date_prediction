@@ -10,12 +10,13 @@ Make sure you have the following software installed on your local machine:
 * Python 3
 * NumPy
 * Pandas
+* Scikit Learn
 
 ## Running the Model
 You can run the model by running the `dollar_rate_prediction.py` file. The file reads the data from file, trains the model, and saves the model to a file named model.pkl.
 
 ````
-python dollar_rate_prediction.py
+python main.py
 ````
 
 ## Contributing
