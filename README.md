@@ -18,8 +18,12 @@ You can run the model by running the `main.py` file. The file reads the data fro
 ````
 python main.py
 ````
+
+## Results
+Visulized dollar rate
 ![dollar_graph](dollar_rate_prediction/dollar_rate_scatter_visualized.png)
 
+Linear regression line
 ![dollar_prediction](dollar_rate_prediction/dollar_rate_prediction.png)
 
 ## Contributing
