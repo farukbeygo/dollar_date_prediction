@@ -26,4 +26,4 @@ python main.py
 If you would like to contribute to this project, feel free to submit a pull request.
 
 ## License
-This project is licensed under the [insert license here] license.
+This project is licensed under the MIT license.
